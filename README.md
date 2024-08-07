@@ -1,0 +1,2 @@
+# rizzler
+brainrot programming language
